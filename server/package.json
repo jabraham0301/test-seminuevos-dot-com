@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jabraham0301/test-seminuevos-dot-com#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "puppeteer": "^16.2.0"
