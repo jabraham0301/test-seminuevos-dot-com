@@ -1,6 +1,6 @@
-# Prueba puesto Desarrollador Java Fullstack
+# Prueba puesto Desarrollador Fullstack
 ## About
-Prueba para el puesto de Desarrollador Java Fullstack, aplicando conocimientos de webscrapping,backend y frontend.
+Prueba para el puesto de Desarrollador Fullstack, aplicando conocimientos de webscrapping,backend y frontend.
 ## Tech stack
 * React
 * Express
