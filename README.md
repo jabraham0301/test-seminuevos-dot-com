@@ -1,23 +1,21 @@
-# Prueba puesto Desarrollador Fullstack
-## About
-Prueba para el puesto de Desarrollador Fullstack, aplicando conocimientos de webscrapping,backend y frontend.
 ## Tech stack
 * React
 * Express
 * Puppeteer
 * Material UI
-* Docker (opcional)
+* Docker (optional)
 ## Pre-Requisites
-Para correr el codigo, se tienen que llenar diferentes prerequisitos, los cuales son:
-- Ubuntu 20.0.4 LTS (OS en el que se trabajo, si es windows, buscar comandos equivalentes)
-- Nodejs instalado (16.x.x)
-- Docker (opcional)
+- Ubuntu 20.0.4 LTS (if you work in windows,find equivalent commands)
+- Nodejs (16.x.x)
+- Docker (optional if you want spin docker containers)
+
 ## Run
-Clonar el repositorio:
+Clone repository:
 ```sh
 $ git clone https://github.com/jabraham0301/test-seminuevos-dot-com.git
 ```
-Descargar los `node_modules` de server y front:
+
+Install `node_modules`:
 ```sh
 $ cd test-seminuevos-dot-com
 $ cd server && npm i
